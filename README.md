@@ -2,10 +2,10 @@
 
 ## 技术支持
 
- ![image](des1.png)
-  ![image](des2.png)
-   ![image](des3.png)
-    ![image](des4.png)
+ ![image](1.jpg)
+  ![image](2.jpg)
+   ![image](3.jpg)
+    ![image](4.jpg)
 
 
 
