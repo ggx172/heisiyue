@@ -2,7 +2,7 @@
 
 ## 技术支持
 
- ![image](https://github.com/ggx172/heisiyue/raw/master/call_man.png)
+ ![image](call_man.png)
 
 ### 好点子？
 
